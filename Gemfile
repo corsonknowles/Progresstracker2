@@ -55,6 +55,7 @@ group :test do
   gem 'faker'
   gem 'capybara'
   gem 'launchy'
+  gem "shoulda-matchers"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
